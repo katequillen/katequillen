@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+This README is still in progress!
 <!--
 **katequillen/katequillen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
