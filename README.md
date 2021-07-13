@@ -2,6 +2,9 @@
 
 This README is still in progress!
 <!--
+I'm Kate Q, a front-end devloper 
+
+
 **katequillen/katequillen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
