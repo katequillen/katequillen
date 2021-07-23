@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Kate</h1>
-<h3 align="center">Frontend developer, #adalaber, editor, ES-EN translator, and jack-of-all-trades</h3>
-
-<p align="left"> <a href="https://twitter.com/krqueue" target="blank"><img src="https://img.shields.io/twitter/follow/krqueue?logo=twitter&style=for-the-badge" alt="krqueue" /></a> </p>
+<h2 align="center">Hi, I'm Kate</h2>
+<h4 align="center">Frontend developer, Adalaber, editor, ES-EN translator, and jack-of-all-trades</h4>
 
 - 🌱 I’m currently learning: **Flutter, Python, and MondoDB**
 
