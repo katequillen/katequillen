@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning: **Flutter, Python, and MondoDB**
 
-- 💬 Ask me about: **React, JavaScript, and esolangs**
+- 💬 Ask me about: **Modding and esolangs!**
 
 - 📫 The best way to reach me: **kate.quillen@gmail.com**
 
